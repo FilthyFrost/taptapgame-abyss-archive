@@ -1,0 +1,13 @@
+**/node_modules/
+**/dist/
+**/delivery/
+**/.vite/
+**/coverage/
+**/.claude/
+**/.codex/
+*.log
+*.inspect.ndjson
+.env
+.env.*
+!.env.example
+tmp/

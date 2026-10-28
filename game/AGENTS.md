@@ -1,0 +1,5 @@
+All agents: read `../START-HERE.md`, `../AGENTS.md`, `studio/AGENT_GUIDE.md`, and `studio/CODEX_WORKFLOW.md` before work.
+
+The user's 2026-10-27 new-project instructions and ../START-HERE.md supersede historical scope, automation, ownership and absolute-path instructions in inherited documents. The active write root is D:/TAPTAPGAME_rebound_20261027 only. D:/TAPTAPGAME_codex and its backups, the original project/reference/studio and D:/steam are read-only. Do not resume the prior overnight parity work or its leases.
+
+This independent repository starts from beb0cfec73161c2e2e4e01fe43412a7431354149 on codex/rebound-foundation. Only backup and workspace preparation are completed so far. Audit hard-coded input/output paths before running inherited tooling. UI implementation waits for user approval of the new SUNBURST concept; arbitrary two-item fusion is deferred. Preserve source provenance and original values when preparing the later Excel; copied catalogues alone do not prove complete source parity.
